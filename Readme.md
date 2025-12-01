@@ -16,11 +16,11 @@ Objetivo: demostrar habilidades reales de un QA Junior en:
 https://www.saucedemo.com
 
 ## Estructura del repositorio
-├── README.md                   ← Este archivo
+├── README.md                 
 ├── TestPlan.md        
 ├── Casos-de-Prueba.xlsx                 
 ├── Reporte-de-Bugs.xlsx      
-├── Reporte-Final-de-Pruebas.md ← Resumen ejecutivo + métricas
+├── Reporte-Final-de-Pruebas.md 
 └── .gitignore
 
 
@@ -35,22 +35,22 @@ https://www.saucedemo.com
 | Criterios de salida   | 100% casos ejecutados|
 | Entregables           | Plan, casos de prueba, reporte de bugs, reporte final |
 
- Plan completo → [1-Plan-de-Pruebas.md](TestPlan.md)
+ Plan completo → [Test-Plan.md](TestPlan.md)
 
 ## Casos de Prueba
 
- Ver casos → [2-Casos-de-Prueba.xlsx](Casos-de-Prueba.xlsx)
+ Ver casos → [Casos-de-Prueba.xlsx](Casos-de-Prueba.xlsx)
 
 ## Bugs Encontrados
 
 
- Ver bugs → [4-Reporte-de-Bugs.xlsx](Reporte-de-Bugs.xlsx)
+ Ver bugs → [Reporte-de-Bugs.xlsx](Reporte-de-Bugs.xlsx)
  Los reportes irian en Jira, para esta version usare excel. 
  La evidencia irian como parte del report en jira. En esta version las evidencias no seran subidas
 
 ## Resultado Final
 
- Reporte final completo → [5-Reporte-Final-de-Pruebas.md](5-Reporte-Final-de-Pruebas.md)
+ Reporte final completo → [5-Reporte-Final-de-Pruebas.md](Reporte-Final-de-Pruebas.md)
 
 
 ## ¿Cómo usar este repositorio?
@@ -60,7 +60,7 @@ https://www.saucedemo.com
 
 
 
-**Autor:** Acevedo Luan (o tu usuario de GitHub)  
+**Autor:** Acevedo Luan 
 **Última actualización:** 29 de noviembre de 2025  
 
 
