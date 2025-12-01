@@ -24,13 +24,13 @@
 ## Metricas de Ejecucion 
 
 
-Total de Test Cases = 76
-Ejecutados = 76
-Passed =52
-Failed =24
-Blocked= 0
-No Ejecutados=0
-Porcentaje de Exito = 68%
+    Total de Test Cases = 76
+    Ejecutados = 76
+    Passed =52
+    Failed =24
+    Blocked= 0
+    No Ejecutados=0
+    Porcentaje de Exito = 68%
 
 
 ## Riesgos Idendificados
